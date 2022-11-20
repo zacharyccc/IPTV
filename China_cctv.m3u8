@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-10科教 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-10科教 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-11戏曲 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-12社会与法制 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-12社会与法制 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-13新闻 (720p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-17农业农村 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-1综合 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-2财经 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-2财经 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-3综艺 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-3综艺 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-3综艺 (480p) [Not 24/7]
+http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-4中文国际 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-5+体育赛事 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-5+体育赛事 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-5+体育赛事 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-5体育 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-5体育 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-6电影 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-6电影 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-6电影 (1080p)
+http://183.207.248.37/PLTV/3/224/3221227209/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-7国防军事 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-7国防军事 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-7国防军事 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225624/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-8电视剧 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-8电视剧 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-8电视剧 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-8电视剧 (1080p)
+http://183.207.248.12/PLTV/3/224/3221227204/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-8电视剧 (1080p)
+http://183.207.248.35/PLTV/3/224/3221227205/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV-9纪录 (1080p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8?checkedby:iptvcat.net
